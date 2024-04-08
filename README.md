@@ -89,4 +89,4 @@ Distribuído sob a Licença MIT. Veja LICENSE para mais informações.
 ### Contato
 Luiz Carlos - [Linkedin](https://www.linkedin.com/in/luizcarlosli/)
 
-[Link do Projeto](https://661361f46670f53d69c728e6--designarttdevsearchcep.netlify.app/)
+[Link do Projeto](https://main--designarttdevsearchcep.netlify.app/)
